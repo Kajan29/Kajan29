@@ -225,6 +225,8 @@ const kajapirathap = {
   <img src="https://raw.githubusercontent.com/IT237525/IT237525/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+*Note: Snake animation updates automatically every 12 hours*
+
 ---
 
 <div align="center">
