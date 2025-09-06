@@ -24,26 +24,33 @@
 const kajapirathap = {
     pronouns: "He/Him",
     location: "🌍 Earth",
-    code: ["JavaScript", "Python", "Java", "C++", "HTML/CSS", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "app dev", "software engineering", "AI/ML"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular", "Next.js"],
-            css: ["Bootstrap", "Tailwind", "Sass", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring Boot", "Spring Security"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "Google Cloud", "Azure"],
-        tools: ["Docker", "Kubernetes", "Git", "Jenkins", "Postman"],
-        misc: ["Firebase", "GraphQL", "Socket.io", "JWT"]
+    code: ["Java", "Python", "Kotlin", "PHP", "JavaScript", "HTML/CSS"],
+    askMeAbout: ["Android Dev", "Web Dev", "Backend Development", "OOP", "Database Design"],
+    repositories: {
+        "CarZone": "🚗 Online Car Mechanic Booking Android App - Kotlin",
+        "OTT_BrightPath": "📺 OTT Platform Backend - PHP", 
+        "ZESTY_MART": "🛒 Online Grocery Store - Java/HTML/CSS/JavaScript",
+        "University_Timetable": "📅 University Management System - Python"
     },
-    currentFocus: "Building innovative solutions and mastering cloud technologies 🚀",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    motto: "Code, Coffee, Repeat ☕"
+    technologies: {
+        mobile: {
+            android: ["Kotlin", "Android SDK", "Material Design"]
+        },
+        backend: {
+            languages: ["Java", "Python", "PHP"],
+            frameworks: ["Spring Boot", "Django", "Flask"]
+        },
+        frontend: {
+            web: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+            mobile: ["Android XML", "Material Components"]
+        },
+        databases: ["MySQL", "SQLite", "PostgreSQL"],
+        tools: ["Git", "Android Studio", "VS Code", "IntelliJ IDEA"],
+        concepts: ["OOP", "Database Design", "REST APIs", "MVC Pattern"]
+    },
+    currentFocus: "Building real-world applications with Java, Python, and Android development 🚀",
+    funFact: "I build complete solutions from mobile apps to web backends! 📱�",
+    motto: "Code, Build, Deploy, Repeat 🔄"
 };
 ```
 
@@ -56,53 +63,51 @@ const kajapirathap = {
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3>🎨 Frontend Development</h3>
+  <h3>📱 Mobile Development</h3>
   
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+  <h3>💻 Backend Development</h3>
+  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+  <h3>🌐 Frontend Development</h3>
+  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-  <h3>⚙️ Backend Development</h3>
-  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-  <h3>🗄️ Databases & Cloud</h3>
-  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-  <h3>🔧 Tools & Technologies</h3>
-  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-  <h3>🎨 Styling & Design</h3>
-  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+  <h3>🗄️ Databases & Tools</h3>
+  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| [🚗 CarZone](https://github.com/IT237525/CarZone) | Online Car Mechanic Booking Android App | Kotlin, Android SDK | ![Stars](https://img.shields.io/github/stars/IT237525/CarZone?style=social) |
+| [📺 OTT BrightPath](https://github.com/IT237525/OTT_BrightPath) | OTT Platform Backend System | PHP, MySQL | ![Stars](https://img.shields.io/github/stars/IT237525/OTT_BrightPath?style=social) |
+| [🛒 ZESTY MART](https://github.com/IT237525/ZESTY_MART-Online-Grocery-Mart) | Online Grocery Store (OOP Project) | Java, HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/IT237525/ZESTY_MART-Online-Grocery-Mart?style=social) |
+| [📅 University Timetable](https://github.com/IT237525/University-timetable-management) | University Management System | Python, Database Design | ![Stars](https://img.shields.io/github/stars/IT237525/University-timetable-management?style=social) |
 
 </div>
 
@@ -111,20 +116,16 @@ const kajapirathap = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT237525&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=30A3DC" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT237525&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_color=30A3DC" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IT237525&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT237525&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" height="180em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT237525&theme=radical&background=0D1117&border=30A3DC&stroke=30A3DC&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=30A3DC&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=IT237525&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4ecdc4&sideLabels=ff6b6b&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT237525&theme=react-dark&bg_color=0D1117&color=F85D7F&line=30A3DC&point=F8D866&area=true&hide_border=false&border_color=30A3DC" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT237525&theme=radical" alt="GitHub Profile Summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT237525&theme=github-compact&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -145,17 +146,17 @@ const kajapirathap = {
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
-🌱 **Currently Learning:** Advanced React Patterns, Cloud Computing (AWS/Azure), Kubernetes, Microservices Architecture
+🌱 **Currently Learning:** Advanced Android Development, Spring Boot, Database Optimization, Software Architecture Patterns
 
-👯 **Looking to Collaborate:** Open Source Projects, Full-Stack Applications, AI/ML Projects
+👯 **Looking to Collaborate:** Android Apps, Backend Systems, E-commerce Solutions, University Management Systems
 
-🤔 **Need Help With:** System Design, DevOps Best Practices, Scalable Architecture
+🤔 **Need Help With:** System Design, DevOps Best Practices, Mobile App UI/UX
 
-💬 **Ask Me About:** Web Development, Software Engineering, Tech Trends, Career Advice
+💬 **Ask Me About:** Java Programming, Android Development, Python, PHP Backend, Database Design, OOP Concepts
 
-⚡ **Fun Fact:** I love solving coding challenges and building innovative solutions that make life easier!
+⚡ **Fun Fact:** I've built complete solutions from car booking apps to online grocery stores! 🚗🛒
 
-🎯 **Current Focus:** Building scalable applications with modern tech stack and contributing to open source
+🎯 **Current Focus:** Building real-world applications that solve actual problems and improving my mobile development skills
 
 </div>
 
