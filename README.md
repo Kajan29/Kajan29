@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT237525&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/IT237525?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Kajan29&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Kajan29?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
 </div>
 
@@ -104,10 +104,10 @@ const kajapirathap = {
   
 | Project | Description | Tech Stack | Stars |
 |---------|-------------|------------|-------|
-| [🚗 CarZone](https://github.com/IT237525/CarZone) | Online Car Mechanic Booking Android App | Kotlin, Android SDK | ![Stars](https://img.shields.io/github/stars/IT237525/CarZone?style=social) |
-| [📺 OTT BrightPath](https://github.com/IT237525/OTT_BrightPath) | OTT Platform Backend System | PHP, MySQL | ![Stars](https://img.shields.io/github/stars/IT237525/OTT_BrightPath?style=social) |
-| [🛒 ZESTY MART](https://github.com/IT237525/ZESTY_MART-Online-Grocery-Mart) | Online Grocery Store (OOP Project) | Java, HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/IT237525/ZESTY_MART-Online-Grocery-Mart?style=social) |
-| [📅 University Timetable](https://github.com/IT237525/University-timetable-management) | University Management System | Python, Database Design | ![Stars](https://img.shields.io/github/stars/IT237525/University-timetable-management?style=social) |
+| [🚗 CarZone](https://github.com/Kajan29/CarZone) | Online Car Mechanic Booking Android App | Kotlin, Android SDK | ![Stars](https://img.shields.io/github/stars/Kajan29/CarZone?style=social) |
+| [📺 OTT BrightPath](https://github.com/Kajan29/OTT_BrightPath) | OTT Platform Backend System | PHP, MySQL | ![Stars](https://img.shields.io/github/stars/Kajan29/OTT_BrightPath?style=social) |
+| [🛒 ZESTY MART](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart) | Online Grocery Store (OOP Project) | Java, HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/Kajan29/ZESTY_MART-Online-Grocery-Mart?style=social) |
+| [📅 University Timetable](https://github.com/Kajan29/University-timetable-management) | University Management System | Python, Database Design | ![Stars](https://img.shields.io/github/stars/Kajan29/University-timetable-management?style=social) |
 
 </div>
 
@@ -116,16 +116,16 @@ const kajapirathap = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT237525&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT237525&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" height="180em"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=IT237525&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4ecdc4&sideLabels=ff6b6b&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Kajan29&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4ecdc4&sideLabels=ff6b6b&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT237525&theme=github-compact&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=github-compact&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -133,7 +133,7 @@ const kajapirathap = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IT237525&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -222,7 +222,7 @@ const kajapirathap = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IT237525/IT237525/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 *Note: Snake animation updates automatically every 12 hours*
@@ -232,7 +232,7 @@ const kajapirathap = {
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3>💻 Thanks for visiting my profile! 💻</h3>
-  <h4>⭐️ From <a href="https://github.com/IT237525">KAJAPIRATHAP J</a> ⭐️</h4>
+  <h4>⭐️ From <a href="https://github.com/Kajan29">KAJAPIRATHAP J</a> ⭐️</h4>
   <p><em>💫 "Code is like humor. When you have to explain it, it's bad." – Cory House 💫</em></p>
   <p><strong>🚀 Happy Coding! Let's build the future together! 🚀</strong></p>
 </div>
