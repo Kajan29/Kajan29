@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I'm%20KAJAPIRATHAP%20J&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I'm%20Kajapirathap%20Jeyachandran&descAlignY=60&descSize=20" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 ```javascript
-const kajapirathap = {
+const kajapirathabJeyachandran = {
     pronouns: "He/Him",
     location: "🌍 Earth",
     code: ["Java", "Python", "Kotlin", "PHP", "JavaScript", "HTML/CSS"],
@@ -268,7 +268,7 @@ const kajapirathap = {
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3>💻 Thanks for visiting my profile! 💻</h3>
-  <h4>⭐️ From <a href="https://github.com/Kajan29">KAJAPIRATHAP J</a> ⭐️</h4>
+  <h4>⭐️ From <a href="https://github.com/Kajan29">Kajapirathap Jeyachandran</a> ⭐️</h4>
   <p><em>💫 "Code is like humor. When you have to explain it, it's bad." – Cory House 💫</em></p>
   <p><strong>🚀 Happy Coding! Let's build the future together! 🚀</strong></p>
 </div>
