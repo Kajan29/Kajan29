@@ -8,7 +8,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kajan29&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Kajan29?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Followers-13-blue?style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Following-16-green?style=for-the-badge&logo=github" alt="GitHub Following" />
+  <img src="https://img.shields.io/badge/Repositories-6-orange?style=for-the-badge&logo=github" alt="GitHub Repos" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
 </div>
 
@@ -30,7 +32,8 @@ const kajapirathap = {
         "CarZone": "🚗 Online Car Mechanic Booking Android App - Kotlin",
         "OTT_BrightPath": "📺 OTT Platform Backend - PHP", 
         "ZESTY_MART": "🛒 Online Grocery Store - Java/HTML/CSS/JavaScript",
-        "University_Timetable": "📅 University Management System - Python"
+        "University_Timetable": "📅 University Management System - Python",
+        "ChefSync": "👨‍🍳 Cloud Kitchen Management System - TypeScript (Forked)"
     },
     technologies: {
         mobile: {
@@ -108,12 +111,39 @@ const kajapirathap = {
 | [📺 OTT BrightPath](https://github.com/Kajan29/OTT_BrightPath) | OTT Platform Backend System | PHP, MySQL | ![Stars](https://img.shields.io/github/stars/Kajan29/OTT_BrightPath?style=social) |
 | [🛒 ZESTY MART](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart) | Online Grocery Store (OOP Project) | Java, HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/Kajan29/ZESTY_MART-Online-Grocery-Mart?style=social) |
 | [📅 University Timetable](https://github.com/Kajan29/University-timetable-management) | University Management System | Python, Database Design | ![Stars](https://img.shields.io/github/stars/Kajan29/University-timetable-management?style=social) |
+| [👨‍🍳 ChefSync](https://github.com/Kajan29/ChefSync) | Cloud Kitchen Management System (Forked) | TypeScript | ![Stars](https://img.shields.io/github/stars/Kajan29/ChefSync?style=social) |
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Projects-6-success?style=for-the-badge&logo=github" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Total%20Stars-6+-yellow?style=for-the-badge&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Contributions%20(2025)-56-blue?style=for-the-badge&logo=github" alt="Contributions" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## � Recent Activity & Achievements
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Activity GIF"/>
+</div>
+
+### 🔥 October 2025 Highlights
+- 📝 **8 commits** pushed to repositories
+- 🍴 **Forked ChefSync** - Cloud Kitchen Management System project
+- 🚀 **Active contributions** across multiple repositories
+- 👥 **Growing community** - 13 followers and counting!
+
+### 🎯 Key Achievements
+- ⭐ Built **4 major projects** from scratch (CarZone, OTT BrightPath, ZESTY MART, University Timetable)
+- 🏆 Maintained **consistent coding** streak throughout the year
+- 💻 Mastered multiple tech stacks (Kotlin, Java, Python, PHP, TypeScript)
+- 🌟 Successfully deployed **full-stack applications**
+
+---
+
+## �📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" height="180em"/>
@@ -146,17 +176,19 @@ const kajapirathap = {
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
-🌱 **Currently Learning:** Advanced Android Development, Spring Boot, Database Optimization, Software Architecture Patterns
+🌱 **Currently Learning:** Advanced Android Development, Spring Boot, Database Optimization, Software Architecture Patterns, TypeScript
 
-👯 **Looking to Collaborate:** Android Apps, Backend Systems, E-commerce Solutions, University Management Systems
+👯 **Looking to Collaborate:** Android Apps, Backend Systems, E-commerce Solutions, University Management Systems, Cloud Kitchen Apps
 
-🤔 **Need Help With:** System Design, DevOps Best Practices, Mobile App UI/UX
+🤔 **Need Help With:** System Design, DevOps Best Practices, Mobile App UI/UX, Cloud Architecture
 
 💬 **Ask Me About:** Java Programming, Android Development, Python, PHP Backend, Database Design, OOP Concepts
 
 ⚡ **Fun Fact:** I've built complete solutions from car booking apps to online grocery stores! 🚗🛒
 
 🎯 **Current Focus:** Building real-world applications that solve actual problems and improving my mobile development skills
+
+📊 **Recent Activity:** 8 commits in October 2025 | Actively contributing to open source projects
 
 </div>
 
@@ -208,13 +240,17 @@ const kajapirathap = {
   
 | Goal | Status | Progress |
 |------|--------|----------|
-| 🔥 Contribute to 10+ Open Source Projects | 🔄 In Progress | ![20%](https://progress-bar.dev/20?color=ff6b6b) |
-| ☁️ Master Cloud Computing (AWS/Azure) | 🔄 In Progress | ![60%](https://progress-bar.dev/60?color=4ecdc4) |
-| 🏗️ Build Full-Stack App with Microservices | 📋 Planning | ![10%](https://progress-bar.dev/10?color=45b7d1) |
-| 🚀 Learn DevOps and CI/CD Pipelines | 🔄 In Progress | ![40%](https://progress-bar.dev/40?color=96ceb4) |
-| 👨‍🏫 Mentor Junior Developers | ✅ Active | ![80%](https://progress-bar.dev/80?color=feca57) |
-| ✍️ Write Technical Blog Posts | 📝 Started | ![30%](https://progress-bar.dev/30?color=ff9ff3) |
+| 🔥 Contribute to 10+ Open Source Projects | 🔄 In Progress | ![25%](https://progress-bar.dev/25?color=ff6b6b&width=200) |
+| ☁️ Master Cloud Computing (AWS/Azure) | 🔄 In Progress | ![65%](https://progress-bar.dev/65?color=4ecdc4&width=200) |
+| 🏗️ Build Full-Stack App with Microservices | � In Progress | ![15%](https://progress-bar.dev/15?color=45b7d1&width=200) |
+| 🚀 Learn DevOps and CI/CD Pipelines | 🔄 In Progress | ![45%](https://progress-bar.dev/45?color=96ceb4&width=200) |
+| 👨‍🏫 Mentor Junior Developers | ✅ Active | ![85%](https://progress-bar.dev/85?color=feca57&width=200) |
+| ✍️ Write Technical Blog Posts | 📝 Started | ![35%](https://progress-bar.dev/35?color=ff9ff3&width=200) |
 
+</div>
+
+<div align="center">
+  <p><em>📅 Last Updated: October 2025 | 🚀 56 Contributions This Year | 💪 Keep Pushing Forward!</em></p>
 </div>
 
 ---
