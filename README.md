@@ -23,7 +23,7 @@
 </div>
 
 ```javascript
-const kajapirathabJeyachandran = {
+const kajapirathap_Jeyachandran = {
     pronouns: "He/Him",
     location: "🌍 Earth",
     code: ["Java", "Python", "Kotlin", "PHP", "JavaScript", "HTML/CSS"],
