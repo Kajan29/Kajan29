@@ -33,7 +33,7 @@ const kajapirathap = {
         "OTT_BrightPath": "📺 OTT Platform Backend - PHP", 
         "ZESTY_MART": "🛒 Online Grocery Store - Java/HTML/CSS/JavaScript",
         "University_Timetable": "📅 University Management System - Python",
-        "ChefSync": "👨‍🍳 Cloud Kitchen Management System - TypeScript (Forked)"
+        "ChefSync": "👨‍🍳 Cloud Kitchen Management System - Python/Django/MySQL (Forked)"
     },
     technologies: {
         mobile: {
@@ -111,7 +111,7 @@ const kajapirathap = {
 | [📺 OTT BrightPath](https://github.com/Kajan29/OTT_BrightPath) | OTT Platform Backend System | PHP, MySQL | ![Stars](https://img.shields.io/github/stars/Kajan29/OTT_BrightPath?style=social) |
 | [🛒 ZESTY MART](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart) | Online Grocery Store (OOP Project) | Java, HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/Kajan29/ZESTY_MART-Online-Grocery-Mart?style=social) |
 | [📅 University Timetable](https://github.com/Kajan29/University-timetable-management) | University Management System | Python, Database Design | ![Stars](https://img.shields.io/github/stars/Kajan29/University-timetable-management?style=social) |
-| [👨‍🍳 ChefSync](https://github.com/Kajan29/ChefSync) | Cloud Kitchen Management System (Forked) | TypeScript | ![Stars](https://img.shields.io/github/stars/Kajan29/ChefSync?style=social) |
+| [👨‍🍳 ChefSync](https://github.com/Kajan29/ChefSync) | Cloud Kitchen Management System (Forked) | Python, Django, MySQL | ![Stars](https://img.shields.io/github/stars/Kajan29/ChefSync?style=social) |
 
 </div>
 
@@ -131,14 +131,14 @@ const kajapirathap = {
 
 ### 🔥 October 2025 Highlights
 - 📝 **8 commits** pushed to repositories
-- 🍴 **Forked ChefSync** - Cloud Kitchen Management System project
+- 🍴 **Forked ChefSync** - Cloud Kitchen Management System (Python/Django/MySQL)
 - 🚀 **Active contributions** across multiple repositories
 - 👥 **Growing community** - 13 followers and counting!
 
 ### 🎯 Key Achievements
 - ⭐ Built **4 major projects** from scratch (CarZone, OTT BrightPath, ZESTY MART, University Timetable)
 - 🏆 Maintained **consistent coding** streak throughout the year
-- 💻 Mastered multiple tech stacks (Kotlin, Java, Python, PHP, TypeScript)
+- 💻 Mastered multiple tech stacks (Kotlin, Java, Python, PHP, Django)
 - 🌟 Successfully deployed **full-stack applications**
 
 ---
@@ -176,7 +176,7 @@ const kajapirathap = {
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
-🌱 **Currently Learning:** Advanced Android Development, Spring Boot, Database Optimization, Software Architecture Patterns, TypeScript
+🌱 **Currently Learning:** Advanced Android Development, Spring Boot, Django Framework, Database Optimization, Software Architecture Patterns
 
 👯 **Looking to Collaborate:** Android Apps, Backend Systems, E-commerce Solutions, University Management Systems, Cloud Kitchen Apps
 
