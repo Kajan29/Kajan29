@@ -339,37 +339,14 @@ const kajapirathap_Jeyachandran = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"/> Contribution Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"/> GitHub Contribution Snake
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=📈+My+GitHub+Contribution+Journey;🌟+Every+Commit+Tells+a+Story;💪+Consistency+is+the+Key!;🚀+Building+in+Public" alt="Contribution Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=�+Watch+the+Snake+Eat+My+Contributions!;📊+Visual+Journey+of+My+Coding+Activity;🎯+Every+Square+Represents+My+Dedication" alt="Snake Header" />
   
-</div>
-
-<br>
-
-<!-- 3D Contribution Graph -->
-<div align="center">
+  <br><br>
   
-  ### 🎯 3D Contribution Visualization
-  
-  <a href="https://github.com/Kajan29">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=📊%20My%20Contribution%20Activity%20Graph&area_color=00d9ff&title_color=00d9ff&icon_color=00d9ff" alt="Contribution Graph"/>
-  </a>
-  
-</div>
-
-<br>
-
-<!-- Snake Animation Section with Beautiful Design -->
-<div align="center">
-  
-  <details open>
-    <summary><h3 style="display: inline-block;">🐍 Watch My Contributions Get Eaten!</h3></summary>
-    
-  <br>
-    
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg">
@@ -378,132 +355,48 @@ const kajapirathap_Jeyachandran = {
   
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🐍+The+snake+automatically+consumes+my+contributions!;🔄+Updates+every+12+hours+with+latest+activity;🎨+Visual+representation+of+my+coding+journey;💻+Each+square+represents+a+day+of+code!" alt="Snake Info" />
-  
-  </details>
-  
-</div>
-
-<br>
-
-<!-- Metrics Cards Section -->
-<div align="center">
-  
-  ### 📊 Contribution Metrics
-  
+  <!-- Stats Badges -->
   <table>
     <tr>
-      <td align="center" width="200">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
         <br><br>
-        <img src="https://img.shields.io/badge/Current_Streak-🔥-orange?style=for-the-badge&logo=github&logoColor=white"/>
+        <b>🔥 Contribution Streak</b>
         <br>
-        <sub><b>Daily Commits</b></sub>
+        <sub>Consistent daily commits</sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
         <br><br>
-        <img src="https://img.shields.io/badge/Total_Commits-📈-blue?style=for-the-badge&logo=git&logoColor=white"/>
+        <b>📊 Active Developer</b>
         <br>
-        <sub><b>Active Contributor</b></sub>
+        <sub>Regular code contributions</sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
         <br><br>
-        <img src="https://img.shields.io/badge/Pull_Requests-🎯-green?style=for-the-badge&logo=github&logoColor=white"/>
+        <b>💻 Daily Coder</b>
         <br>
-        <sub><b>Code Reviews</b></sub>
+        <sub>Building & learning every day</sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70">
         <br><br>
-        <img src="https://img.shields.io/badge/Open_Source-🌟-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+        <b>🌟 Open Source</b>
         <br>
-        <sub><b>Community Impact</b></sub>
+        <sub>Community contributor</sub>
       </td>
     </tr>
   </table>
   
-</div>
-
-<br>
-
-<!-- Contribution Heatmap -->
-<div align="center">
+  <br>
   
-  ### 🔥 Contribution Heatmap
-  
-  <a href="https://github.com/Kajan29">
-    <img src="https://ghchart.rshah.org/00d9ff/Kajan29" alt="GitHub Contribution Chart" />
-  </a>
+  <img src="https://img.shields.io/badge/�-Snake_Updates_Every_12_Hours-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅-Reflects_Last_Year_Activity-00d9ff?style=for-the-badge" />
   
   <br><br>
   
-  <img src="https://img.shields.io/badge/💡-Darker_=_More_Contributions-00d9ff?style=for-the-badge" />
-  
-</div>
-
-<br>
-
-<!-- Stats Grid -->
-<div align="center">
-  
-  ### 📈 Detailed Activity Stats
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kajan29&theme=tokyonight" alt="Profile Details"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kajan29&theme=tokyonight" alt="Productive Time"/>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<br>
-
-<!-- Fun Facts Section -->
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60">
-        <br>
-        <b>🎨 Contribution Philosophy</b>
-        <br>
-        <sub>"Every commit is a step forward in my learning journey!"</sub>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60">
-        <br>
-        <b>⚡ Coding Habit</b>
-        <br>
-        <sub>"Code daily, learn continuously, build consistently"</sub>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="60">
-        <br>
-        <b>🚀 Goal</b>
-        <br>
-        <sub>"Contribute to meaningful projects that make a difference"</sub>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<br>
-
-<!-- Animated Quote -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=2000&color=F75C7E&center=true&vCenter=true&width=800&lines=✨+Small+daily+improvements+lead+to+stunning+results!;🎯+Consistency+beats+intensity+every+time!;💪+One+commit+at+a+time%2C+building+something+great!;🌟+Making+an+impact+through+code+and+collaboration!" alt="Motivational Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=💡+Each+green+square+represents+contributions+on+that+day;🎨+The+darker+the+color%2C+the+more+contributions;🚀+Building+in+public%2C+one+commit+at+a+time!" alt="Snake Info" />
   
 </div>
 
@@ -534,12 +427,7 @@ const kajapirathap_Jeyachandran = {
   
   <!-- Back to Top Link -->
   <a href="#"><img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top"/></a>
-  
-</div>
-
-<br>
-
-<!-- Animated Footer Wave -->
+  +
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&animation=twinkling" alt="Footer Wave" />
 </div>
