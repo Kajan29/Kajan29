@@ -339,13 +339,52 @@ const kajapirathap_Jeyachandran = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"/> Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"/> Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg">
+  </picture>
+  
 </div>
 
-*Note: Snake animation updates automatically every 12 hours*
+<div align="center">
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+        <br>
+        <sub><b>🔥 Contribution Streak</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+        <br>
+        <sub><b>📊 Active Contributor</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+        <br>
+        <sub><b>💻 Daily Commits</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+        <br>
+        <sub><b>🌟 Open Source</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🐍+Watch+the+snake+eat+my+contributions!;📅+Updated+automatically+every+12+hours;🎯+Building+consistently%2C+one+commit+at+a+time!;💪+Committed+to+continuous+improvement!" alt="Snake Message" />
+  
+</div>
 
 <br>
 
