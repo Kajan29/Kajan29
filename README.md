@@ -1,26 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I'm%20Kajapirathap%20Jeyachandran&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Hi%20there!%20👋&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=I'm%20Kajapirathap%20Jeyachandran%20|%20Software%20Developer%20|%20Problem%20Solver&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Full+Stack+Developer+%E2%9A%A1" alt="Typing SVG" />
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💻+Full+Stack+Developer;🚀+Android+%26+Mobile+App+Specialist;🎯+Backend+Systems+Expert;🌟+Open+Source+Contributor;📱+Building+Real-World+Solutions;⚡+Always+Learning+%26+Growing" alt="Typing SVG" />
+  
 </div>
 
+<br>
+
+<!-- Badges Section with Enhanced Design -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kajan29&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-13-blue?style=for-the-badge&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Following-16-green?style=for-the-badge&logo=github" alt="GitHub Following" />
-  <img src="https://img.shields.io/badge/Repositories-6-orange?style=for-the-badge&logo=github" alt="GitHub Repos" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kajan29&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye)
+  ![GitHub followers](https://img.shields.io/github/followers/Kajan29?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github)
+  ![GitHub User's stars](https://img.shields.io/github/stars/Kajan29?label=TOTAL+STARS&style=for-the-badge&color=yellow&logo=starship)
+  [![Open to Collaborate](https://img.shields.io/badge/OPEN_TO-COLLABORATE-success?style=for-the-badge&logo=handshake)](https://github.com/Kajan29)
+  
 </div>
 
----
+<br>
 
-## 🚀 About Me
-
+<!-- Animated Welcome Message -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Coding Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+✨;Let's+Build+Something+Amazing+Together!+🚀;Check+out+my+projects+below+👇" alt="Welcome Message" />
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<br>
 
 ```javascript
 const kajapirathap_Jeyachandran = {
@@ -57,22 +75,23 @@ const kajapirathap_Jeyachandran = {
 };
 ```
 
+<br clear="both">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack & Tools
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <h3>📱 Mobile Development</h3>
+  
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="25"/> Mobile Development</h3>
   
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-  <h3>💻 Backend Development</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25"/> Backend Development</h3>
   
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,14 +100,14 @@ const kajapirathap_Jeyachandran = {
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-  <h3>🌐 Frontend Development</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="25"/> Frontend Development</h3>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <h3>🗄️ Databases & Tools</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="25"/> Databases & Tools</h3>
   
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -99,11 +118,19 @@ const kajapirathap_Jeyachandran = {
 
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"/> Featured Projects
 
 <div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+  <br><br>
   
 | Project | Description | Tech Stack | Stars |
 |---------|-------------|------------|-------|
@@ -115,25 +142,36 @@ const kajapirathap_Jeyachandran = {
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Projects-6-success?style=for-the-badge&logo=github" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Total%20Stars-6+-yellow?style=for-the-badge&logo=github" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/Contributions%20(2025)-56-blue?style=for-the-badge&logo=github" alt="Contributions" />
-</div>
-
----
-
-## � Recent Activity & Achievements
+<br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Activity GIF"/>
+  
+  ![Total Projects](https://img.shields.io/badge/Total%20Projects-6-success?style=for-the-badge&logo=github&logoColor=white)
+  ![Total Stars](https://img.shields.io/badge/Total%20Stars-6+-yellow?style=for-the-badge&logo=star&logoColor=white)
+  ![Contributions](https://img.shields.io/badge/Contributions%20(2025)-Active-blue?style=for-the-badge&logo=github&logoColor=white)
+  
 </div>
 
-### 🔥 October 2025 Highlights
-- 📝 **8 commits** pushed to repositories
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"/> Recent Activity & Achievements
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Fire"/>
+</div>
+
+<br>
+
+### 🔥 November 2025 Highlights
+- 📝 **Active development** across multiple repositories
 - 🍴 **Forked ChefSync** - Cloud Kitchen Management System (Python/Django/MySQL)
-- 🚀 **Active contributions** across multiple repositories
-- 👥 **Growing community** - 13 followers and counting!
+- 🚀 **Continuous contributions** to open source projects
+- 👥 **Growing community** - Building connections in tech!
+- ✨ **Profile Enhancement** - Updated README with latest achievements
 
 ### 🎯 Key Achievements
 - ⭐ Built **4 major projects** from scratch (CarZone, OTT BrightPath, ZESTY MART, University Timetable)
@@ -141,9 +179,13 @@ const kajapirathap_Jeyachandran = {
 - 💻 Mastered multiple tech stacks (Kotlin, Java, Python, PHP, Django)
 - 🌟 Successfully deployed **full-stack applications**
 
----
+<br>
 
-## �📊 GitHub Statistics
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"/> GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" height="180em"/>
@@ -155,51 +197,68 @@ const kajapirathap_Jeyachandran = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=github-compact&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35"/> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
----
+<br>
 
-## 🔥 Current Projects & Interests
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="35"/> Current Projects & Interests
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+<br>
+
+
+- 🌱 **Currently Learning:** Advanced Android Development, Spring Boot, Django Framework, Database Optimization, Software Architecture Patterns
+
+- 👯 **Looking to Collaborate:** Android Apps, Backend Systems, E-commerce Solutions, University Management Systems, Cloud Kitchen Apps
+
+- 🤔 **Need Help With:** System Design, DevOps Best Practices, Mobile App UI/UX, Cloud Architecture
+
+- 💬 **Ask Me About:** Java Programming, Android Development, Python, PHP Backend, Database Design, OOP Concepts
+
+- ⚡ **Fun Fact:** I've built complete solutions from car booking apps to online grocery stores! 🚗🛒
+
+- 🎯 **Current Focus:** Building real-world applications that solve actual problems and improving my mobile development skills
+
+- 📊 **Recent Activity:** Continuous development in November 2025 | Actively contributing to open source projects | Building real-world solutions
+
+<br clear="both">
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35"/> Connect with Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Programming GIF"/>
-</div>
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-🌱 **Currently Learning:** Advanced Android Development, Spring Boot, Django Framework, Database Optimization, Software Architecture Patterns
-
-👯 **Looking to Collaborate:** Android Apps, Backend Systems, E-commerce Solutions, University Management Systems, Cloud Kitchen Apps
-
-🤔 **Need Help With:** System Design, DevOps Best Practices, Mobile App UI/UX, Cloud Architecture
-
-💬 **Ask Me About:** Java Programming, Android Development, Python, PHP Backend, Database Design, OOP Concepts
-
-⚡ **Fun Fact:** I've built complete solutions from car booking apps to online grocery stores! 🚗🛒
-
-🎯 **Current Focus:** Building real-world applications that solve actual problems and improving my mobile development skills
-
-📊 **Recent Activity:** 8 commits in October 2025 | Actively contributing to open source projects
-
-</div>
-
----
-
-
-## 🌐 Connect with Me
-
-<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" alt="Handshake"/>
+  
   <h3>🤝 Let's Connect and Build Something Amazing Together! </h3>
   
+  <br>
+  
+  <a href="https://github.com/Kajan29" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/jeyachandran-kajapirathap" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=bounce" alt="LinkedIn" />
   </a>
@@ -218,44 +277,69 @@ const kajapirathap_Jeyachandran = {
   
   <br><br>
   
+  <a href="https://github.com/Kajan29">
+    <img src="https://img.shields.io/badge/Visit%20My%20GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub Profile" />
+  </a>
+  
+  <br><br>
+  
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  
+  <br><br>
+  
+  <p>📫 <strong>Reach me at:</strong> <a href="mailto:Kajan5217@gmail.com">Kajan5217@gmail.com</a></p>
+  <p>🔗 <strong>GitHub Profile:</strong> <a href="https://github.com/Kajan29">github.com/Kajan29</a></p>
 </div>
 
----
+<br>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
 
-## 💡 Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="35"/> Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
 </div>
 
----
+<br>
 
-## 🎯 Goals for 2025
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35"/> Goals for 2025
 
 <div align="center">
   
 | Goal | Status | Progress |
 |------|--------|----------|
-| 🔥 Contribute to 10+ Open Source Projects | 🔄 In Progress | ![25%](https://progress-bar.dev/25?color=ff6b6b&width=200) |
-| ☁️ Master Cloud Computing (AWS/Azure) | 🔄 In Progress | ![65%](https://progress-bar.dev/65?color=4ecdc4&width=200) |
-| 🏗️ Build Full-Stack App with Microservices | � In Progress | ![15%](https://progress-bar.dev/15?color=45b7d1&width=200) |
-| 🚀 Learn DevOps and CI/CD Pipelines | 🔄 In Progress | ![45%](https://progress-bar.dev/45?color=96ceb4&width=200) |
-| 👨‍🏫 Mentor Junior Developers | ✅ Active | ![85%](https://progress-bar.dev/85?color=feca57&width=200) |
-| ✍️ Write Technical Blog Posts | 📝 Started | ![35%](https://progress-bar.dev/35?color=ff9ff3&width=200) |
+| 🔥 Contribute to 10+ Open Source Projects | 🔄 In Progress | ![30%](https://progress-bar.dev/30?color=ff6b6b&width=200) |
+| ☁️ Master Cloud Computing (AWS/Azure) | 🔄 In Progress | ![70%](https://progress-bar.dev/70?color=4ecdc4&width=200) |
+| 🏗️ Build Full-Stack App with Microservices | 🔄 In Progress | ![20%](https://progress-bar.dev/20?color=45b7d1&width=200) |
+| 🚀 Learn DevOps and CI/CD Pipelines | 🔄 In Progress | ![50%](https://progress-bar.dev/50?color=96ceb4&width=200) |
+| 👨‍🏫 Mentor Junior Developers | ✅ Active | ![90%](https://progress-bar.dev/90?color=feca57&width=200) |
+| ✍️ Write Technical Blog Posts | 📝 Started | ![40%](https://progress-bar.dev/40?color=ff9ff3&width=200) |
+| 🌟 Enhance GitHub Profile & Showcase | ✅ Completed | ![100%](https://progress-bar.dev/100?color=00ff00&width=200) |
 
 </div>
 
 <div align="center">
-  <p><em>📅 Last Updated: October 2025 | 🚀 56 Contributions This Year | 💪 Keep Pushing Forward!</em></p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="150" alt="Calendar"/>
+  
+  <p><em>📅 Last Updated: November 10, 2025 | 🚀 Growing Every Day | 💪 Keep Pushing Forward!</em></p>
 </div>
 
----
+<br>
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"/> Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -263,18 +347,45 @@ const kajapirathap_Jeyachandran = {
 
 *Note: Snake animation updates automatically every 12 hours*
 
----
+<br>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+<!-- Footer Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h3>💻 Thanks for visiting my profile! 💻</h3>
-  <h4>⭐️ From <a href="https://github.com/Kajan29">Kajapirathap Jeyachandran</a> ⭐️</h4>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" alt="Coding"/>
+  
+  <h2>💻 Thanks for Visiting My Profile! 💻</h2>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+Let's+Build+the+Future!+🚀;Feel+Free+to+Star+⭐+My+Repositories!;Open+for+Collaboration+💼;Let's+Connect+and+Create+Magic!+✨" alt="Footer Message" />
+  
+  <br><br>
+  
   <p><em>💫 "Code is like humor. When you have to explain it, it's bad." – Cory House 💫</em></p>
-  <p><strong>🚀 Happy Coding! Let's build the future together! 🚀</strong></p>
+  
+  <br>
+  
+  <h4>⭐️ From <a href="https://github.com/Kajan29">Kajapirathap Jeyachandran</a> with 💙</h4>
+  
+  <br>
+  
+  <!-- Back to Top Link -->
+  <a href="#"><img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top"/></a>
+  
 </div>
 
-----
+<br>
+
+<!-- Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&animation=twinkling" alt="Footer Wave" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  
+  **🌟 Don't forget to leave a ⭐ if you like my work! 🌟**
+  
 </div>
