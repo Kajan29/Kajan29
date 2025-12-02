@@ -146,16 +146,16 @@ const kajapirathap_Jeyachandran = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=radical&hide_border=true" height="180em"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kajan29&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4ecdc4&sideLabels=ff6b6b&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=github-compact&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=radical&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -163,7 +163,7 @@ const kajapirathap_Jeyachandran = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -258,10 +258,10 @@ const kajapirathap_Jeyachandran = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Kajan29/Kajan29/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-*Note: Snake animation updates automatically every 12 hours*
+*Note: To enable the snake animation, you need to set up GitHub Actions in your repository*
 
 ---
 
