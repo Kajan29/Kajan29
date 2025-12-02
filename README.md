@@ -258,8 +258,14 @@ const kajapirathap_Jeyachandran = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Kajan29/Kajan29/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+*Note: The snake animation updates automatically every 6 hours*
 
 ---
 
