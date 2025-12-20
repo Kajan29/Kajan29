@@ -8,9 +8,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kajan29&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-13-blue?style=for-the-badge&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Following-16-green?style=for-the-badge&logo=github" alt="GitHub Following" />
-  <img src="https://img.shields.io/badge/Repositories-6-orange?style=for-the-badge&logo=github" alt="GitHub Repos" />
+  <a href="https://github.com/Kajan29?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kajan29?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Kajan29?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repositories&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKajan29" alt="GitHub Repos" />
+  </a>
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
 </div>
 
@@ -105,20 +108,26 @@ const kajapirathap_Jeyachandran = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [🚗 CarZone](https://github.com/Kajan29/CarZone) | Online Car Mechanic Booking Android App | Kotlin, Android SDK | ![Stars](https://img.shields.io/github/stars/Kajan29/CarZone?style=social) |
-| [📺 OTT BrightPath](https://github.com/Kajan29/OTT_BrightPath) | OTT Platform Backend System | PHP, MySQL | ![Stars](https://img.shields.io/github/stars/Kajan29/OTT_BrightPath?style=social) |
-| [🛒 ZESTY MART](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart) | Online Grocery Store (OOP Project) | Java, HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/Kajan29/ZESTY_MART-Online-Grocery-Mart?style=social) |
-| [📅 University Timetable](https://github.com/Kajan29/University-timetable-management) | University Management System | Python, Database Design | ![Stars](https://img.shields.io/github/stars/Kajan29/University-timetable-management?style=social) |
-| [👨‍🍳 ChefSync](https://github.com/Kajan29/ChefSync) | Cloud Kitchen Management System (Forked) | Python, Django, MySQL | ![Stars](https://img.shields.io/github/stars/Kajan29/ChefSync?style=social) |
+### 🌟 Showcasing My Best Work
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| 🚗 **[CarZone](https://github.com/Kajan29/CarZone)** | Modern Android app for booking car mechanic services with intuitive UI | `Kotlin` `Android SDK` `Material Design` | ![Stars](https://img.shields.io/github/stars/Kajan29/CarZone?style=social) |
+| 📺 **[OTT BrightPath](https://github.com/Kajan29/OTT_BrightPath)** | Backend system for OTT streaming platform with robust architecture | `PHP` `MySQL` `REST API` | ![Stars](https://img.shields.io/github/stars/Kajan29/OTT_BrightPath?style=social) |
+| 🛒 **[ZESTY MART](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart)** | Full-featured online grocery store demonstrating OOP principles | `Java` `HTML` `CSS` `JavaScript` | ![Stars](https://img.shields.io/github/stars/Kajan29/ZESTY_MART-Online-Grocery-Mart?style=social) |
+| 📅 **[University Timetable](https://github.com/Kajan29/University-timetable-management)** | Comprehensive university management system with database optimization | `Python` `Database Design` `SQL` | ![Stars](https://img.shields.io/github/stars/Kajan29/University-timetable-management?style=social) |
+| 👨‍🍳 **[ChefSync](https://github.com/Kajan29/ChefSync)** | Cloud kitchen management system with Django framework | `Python` `Django` `MySQL` | ![Stars](https://img.shields.io/github/stars/Kajan29/ChefSync?style=social) |
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Projects-6-success?style=for-the-badge&logo=github" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Total%20Stars-6+-yellow?style=for-the-badge&logo=github" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/Contributions%20(2025)-56-blue?style=for-the-badge&logo=github" alt="Contributions" />
+  <a href="https://github.com/Kajan29?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Projects-6+-success?style=for-the-badge&logo=github" alt="Total Projects" />
+  </a>
+  <img src="https://img.shields.io/github/stars/Kajan29?style=for-the-badge&logo=github&color=yellow" alt="Total Stars" />
+  <a href="https://github.com/Kajan29">
+    <img src="https://img.shields.io/badge/Contributions%20(2025)-Active-blue?style=for-the-badge&logo=github" alt="Contributions" />
+  </a>
 </div>
 
 ---
@@ -129,11 +138,12 @@ const kajapirathap_Jeyachandran = {
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Activity GIF"/>
 </div>
 
-### 🔥 October 2025 Highlights
-- 📝 **8 commits** pushed to repositories
+### 🔥 December 2025 Highlights
+- 📝 **Active development** across multiple projects
 - 🍴 **Forked ChefSync** - Cloud Kitchen Management System (Python/Django/MySQL)
-- 🚀 **Active contributions** across multiple repositories
-- 👥 **Growing community** - 13 followers and counting!
+- 🚀 **Continuous learning** and improving tech stack
+- 👥 **Growing community** - Building connections with developers worldwide!
+- 💻 **Focused on** Android & Backend development
 
 ### 🎯 Key Achievements
 - ⭐ Built **4 major projects** from scratch (CarZone, OTT BrightPath, ZESTY MART, University Timetable)
@@ -174,22 +184,61 @@ const kajapirathap_Jeyachandran = {
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Programming GIF"/>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-🌱 **Currently Learning:** Advanced Android Development, Spring Boot, Django Framework, Database Optimization, Software Architecture Patterns
+### 🌱 Currently Learning
+- 📱 Advanced Android Development
+- ☸️ Spring Boot Microservices
+- 🌍 Django REST Framework
+- 📦 Database Optimization Techniques
+- 🏛️ Software Architecture Patterns
+- ☁️ Cloud Technologies (AWS/Azure)
 
-👯 **Looking to Collaborate:** Android Apps, Backend Systems, E-commerce Solutions, University Management Systems, Cloud Kitchen Apps
+</td>
+<td width="50%" valign="top">
 
-🤔 **Need Help With:** System Design, DevOps Best Practices, Mobile App UI/UX, Cloud Architecture
+### 👥 Collaboration Interests
+- 📱 Android Applications
+- 🖥️ Backend Systems & APIs
+- 🛒 E-commerce Solutions
+- 🏫 University Management Systems
+- 🍴 Cloud Kitchen Applications
+- 🔧 Open Source Contributions
 
-💬 **Ask Me About:** Java Programming, Android Development, Python, PHP Backend, Database Design, OOP Concepts
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-⚡ **Fun Fact:** I've built complete solutions from car booking apps to online grocery stores! 🚗🛒
+### 💬 Ask Me About
+- ☕ Java Programming & OOP
+- 🤖 Android Development with Kotlin
+- 🐍 Python & Django Framework
+- 🐘 PHP Backend Development
+- 📄 Database Design & SQL
+- 🏛️ Software Architecture
 
-🎯 **Current Focus:** Building real-world applications that solve actual problems and improving my mobile development skills
+</td>
+<td width="50%" valign="top">
 
-📊 **Recent Activity:** 8 commits in October 2025 | Actively contributing to open source projects
+### 🚀 Current Focus
+- 🎯 Building production-ready applications
+- 💻 Improving mobile development skills
+- 📖 Learning system design patterns
+- 🧩 Solving real-world problems
+- 🌐 Contributing to open source
+- 📈 Growing technical expertise
 
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <br>
+  <p><strong>⚡ Fun Fact:</strong> I've built complete end-to-end solutions from car booking apps to online grocery stores! 🚗🛒</p>
+  <p><strong>🎯 Current Status:</strong> Actively coding and contributing to the developer community</p>
 </div>
 
 ---
@@ -250,7 +299,7 @@ const kajapirathap_Jeyachandran = {
 </div>
 
 <div align="center">
-  <p><em>📅 Last Updated: October 2025 | 🚀 56 Contributions This Year | 💪 Keep Pushing Forward!</em></p>
+  <p><em>📅 Last Updated: December 2025 | 🚀 Contributions Growing Daily | 💪 Keep Pushing Forward!</em></p>
 </div>
 
 ---
