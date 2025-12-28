@@ -28,7 +28,7 @@
 
 ## <img src="https://media.giphy.com/media/HVfvJfIIqa7Tz9Pz3f/giphy.gif" width="35"> About Me
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY0MDIwODUzOTQ4NDk0OTE1ODQ5MTQ5MTQ5MTQ5MTQ5MTQ5MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xECA2qB9Wf2Eg/giphy.gif" width="220" align="right" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);" />
+<img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="220" align="right" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);" alt="Coding Animation" />
 
 <div align="left">
 
@@ -84,24 +84,42 @@ const professional_profile = {
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Achievements & Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/Kajan29">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Kajan29" />
+
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" width="100%" />
   </a>
   
-  <br/>
+  <br/><br/>
+
+  <!-- Stats Grid -->
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+      </td>
+      <td align="center" style="border: none;">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=Kajan29" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&background=0D1117&ring=7000FF&fire=00C9FF&currStreakNum=00C9FF" alt="Streak" width="80%" />
   
-  <a href="https://github.com/Kajan29">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=00C9FF&currStreakNum=00C9FF" alt="Streak" />
-  </a>
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=tokyo-night&bg_color=0D1117&color=7000FF&line=00C9FF&point=ffffff&area=true&hide_border=true" width="100%" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=tokyo-night&bg_color=0d1117&color=7000FF&line=00C9FF&point=ffffff&area=true&hide_border=true" width="100%" />
+  <!-- Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kajan29&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kajan29&theme=tokyonight&utcOffset=8" width="45%" />
 
 </div>
 
