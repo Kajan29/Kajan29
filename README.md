@@ -26,7 +26,7 @@
 
 <div align="center"> 
 
-## <img src="https://media.giphy.com/media/HVfvJfIIqa7Tz9Pz3f/giphy.gif" width="35"> About Me
+About Me
 
 <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="220" align="right" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);" alt="Coding Animation" />
 
@@ -84,18 +84,19 @@ const professional_profile = {
 
 ---
 
-## 🏆 Achievements & Analytics
+## 🏆 Achievements & Activity
 
 <div align="center">
 
-  <!-- Trophies (Responsive & Dynamic) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
+  <!-- Summary Cards (Hero Visuals) -->
+  <a href="https://github.com/Kajan29">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kajan29&theme=tokyonight" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kajan29&theme=tokyonight&utcOffset=8" width="45%" />
   </a>
-  
+
   <br/><br/>
 
-  <!-- Dynamic Rank & Stats -->
+  <!-- Stats Dashboard -->
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
     
     <!-- Rank Card -->
@@ -112,12 +113,11 @@ const professional_profile = {
 
   <br/>
 
-  <!-- Productive Time & Streak -->
+  <!-- Streak -->
   <a href="https://github.com/Kajan29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=00C9FF&currStreakNum=00C9FF" alt="Streak" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=00C9FF&currStreakNum=00C9FF" alt="Streak" width="80%" />
   </a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kajan29&theme=tokyonight&utcOffset=8" height="170" />
-
+  
   <br/><br/>
   
   <!-- Activity Graph -->
