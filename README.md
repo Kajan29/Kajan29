@@ -1,338 +1,137 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I'm%20Kajapirathap%20Jeyachandran&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:00C9FF&height=280&section=header&text=Hi%20there,%20I'm%20Kajapirathap!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20&descColor=ffffff" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Full+Stack+Developer+%E2%9A%A1" alt="Typing SVG" />
+  <a href="https://git.io/z" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Applications...;Exploring+New+Technologies...;Crafting+Digital+Experiences...;Passionate+Full+Stack+Dev..." alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kajan29&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/Kajan29?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kajan29?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Kajan29?label=Followers&style=for-the-badge&color=7000FF&logo=github&logoColor=white" alt="Followers" />
   </a>
   <a href="https://github.com/Kajan29?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repositories&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKajan29" alt="GitHub Repos" />
+    <img src="https://img.shields.io/badge/Repositories-Active-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate" />
+  <img src="https://komarev.com/ghpvc/?username=Kajan29&label=Profile%20Views&color=7000FF&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
 </div>
 
+<br />
+
 ---
+
+<div align="center"> 
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Coding Animation"/>
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY0MDIwODUzOTQ4NDk0OTE1ODQ5MTQ5MTQ5MTQ5MTQ5MTQ5MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xECA2qB9Wf2Eg/giphy.gif" width="250" align="right" style="border-radius: 10px;" />
+
+<div align="left">
 
 ```javascript
-const kajapirathap_Jeyachandran = {
-    pronouns: "He/Him",
-    location: "🌍 Earth",
-    code: ["Java", "Python", "Kotlin", "PHP", "JavaScript", "HTML/CSS"],
-    askMeAbout: ["Android Dev", "Web Dev", "Backend Development", "OOP", "Database Design"],
-    repositories: {
-        "CarZone": "🚗 Online Car Mechanic Booking Android App - Kotlin",
-        "OTT_BrightPath": "📺 OTT Platform Backend - PHP",
-        "ZESTY_MART": "🛒 Online Grocery Store - Java/HTML/CSS/JavaScript",
-        "University_Timetable": "📅 University Management System - Python",
-        "ChefSync": "👨‍🍳 Cloud Kitchen Management System - Python/Django/MySQL (Forked)"
-    },
-    technologies: {
-        mobile: {
-            android: ["Kotlin", "Android SDK", "Material Design"]
-        },
-        backend: {
-            languages: ["Java", "Python", "PHP"],
-            frameworks: ["Spring Boot", "Django", "Flask"]
-        },
-        frontend: {
-            web: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
-            mobile: ["Android XML", "Material Components"]
-        },
-        databases: ["MySQL", "SQLite", "PostgreSQL"],
-        tools: ["Git", "Android Studio", "VS Code", "IntelliJ IDEA"],
-        concepts: ["OOP", "Database Design", "REST APIs", "MVC Pattern"]
-    },
-    currentFocus: "Building real-world applications with Java, Python, and Android development 🚀",
-    funFact: "I build complete solutions from mobile apps to web backends! 📱💻",
-    motto: "Code, Build, Deploy, Repeat 🔄"
+const kajan = {
+    code: ["Kotlin", "Java", "Python", "PHP", "JS"],
+    tools: ["React", "Spring Boot", "Django", "Android SDK"],
+    architecture: ["Microservices", "MVC", "REST APIs"],
+    challenge: "Turning ideas into reality through code.",
+    current_focus: "Mastering Cloud Native & Mobile Dev 🚀"
 };
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
+<br/>
+Currently enhancing my skills in <b>Advanced Android Development</b> and <b>Cloud Architectures (AWS/Azure)</b>. I love building tools that solve real-world problems, from University Management Systems to innovative E-commerce solutions.
 </div>
+
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Interactive Tech Stack
 
 <div align="center">
-  <h3>📱 Mobile Development</h3>
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-  <h3>💻 Backend Development</h3>
-
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-  <h3>🌐 Frontend Development</h3>
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-  <h3>🗄️ Databases & Tools</h3>
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+| **Mobile** | **Backend** | **Frontend** | **Database & Tools** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=kotlin,android,flutter" height="50" /> | <img src="https://skillicons.dev/icons?i=java,python,php,spring,django,flask" height="50" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" height="50" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,vscode,idea" height="50" /> |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
 <div align="center">
 
-### 🌟 Showcasing My Best Work
-
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| 🚗 **[CarZone](https://github.com/Kajan29/CarZone)** | Modern Android app for booking car mechanic services with intuitive UI | `Kotlin` `Android SDK` `Material Design` | ![Stars](https://img.shields.io/github/stars/Kajan29/CarZone?style=social) |
-| 📺 **[OTT BrightPath](https://github.com/Kajan29/OTT_BrightPath)** | Backend system for OTT streaming platform with robust architecture | `PHP` `MySQL` `REST API` | ![Stars](https://img.shields.io/github/stars/Kajan29/OTT_BrightPath?style=social) |
-| 🛒 **[ZESTY MART](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart)** | Full-featured online grocery store demonstrating OOP principles | `Java` `HTML` `CSS` `JavaScript` | ![Stars](https://img.shields.io/github/stars/Kajan29/ZESTY_MART-Online-Grocery-Mart?style=social) |
-| 📅 **[University Timetable](https://github.com/Kajan29/University-timetable-management)** | Comprehensive university management system with database optimization | `Python` `Database Design` `SQL` | ![Stars](https://img.shields.io/github/stars/Kajan29/University-timetable-management?style=social) |
-| 👨‍🍳 **[ChefSync](https://github.com/Kajan29/ChefSync)** | Cloud kitchen management system with Django framework | `Python` `Django` `MySQL` | ![Stars](https://img.shields.io/github/stars/Kajan29/ChefSync?style=social) |
+| Project | Tech Stack | Status |
+|:---:|:---:|:---:|
+| **[CarZone 🚗](https://github.com/Kajan29/CarZone)**<br/>_Mechanic Booking App_ | `Kotlin` `Android XML` `Firebase` | ![Stars](https://img.shields.io/github/stars/Kajan29/CarZone?style=flat-square&labelColor=181717&color=00C9FF) |
+| **[OTT BrightPath 📺](https://github.com/Kajan29/OTT_BrightPath)**<br/>_Streaming Backend_ | `PHP` `MySQL` `REST` | ![Stars](https://img.shields.io/github/stars/Kajan29/OTT_BrightPath?style=flat-square&labelColor=181717&color=7000FF) |
+| **[Zesty Mart 🛒](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart)**<br/>_Grocery Store_ | `Java` `Swing` `MySQL` | ![Stars](https://img.shields.io/github/stars/Kajan29/ZESTY_MART-Online-Grocery-Mart?style=flat-square&labelColor=181717&color=00C9FF) |
+| **[ChefSync 👨‍🍳](https://github.com/Kajan29/ChefSync)**<br/>_Cloud Kitchen Mgr_ | `Python` `Django` `PostgreSQL` | ![Stars](https://img.shields.io/github/stars/Kajan29/ChefSync?style=flat-square&labelColor=181717&color=7000FF) |
 
 </div>
 
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <a href="https://github.com/Kajan29?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Projects-6+-success?style=for-the-badge&logo=github" alt="Total Projects" />
-  </a>
-  <img src="https://img.shields.io/github/stars/Kajan29?style=for-the-badge&logo=github&color=yellow" alt="Total Stars" />
+  
   <a href="https://github.com/Kajan29">
-    <img src="https://img.shields.io/badge/Contributions%20(2025)-Active-blue?style=for-the-badge&logo=github" alt="Contributions" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Kajan29" />
   </a>
-</div>
-
----
-
-## 📈 Recent Activity & Achievements
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Activity GIF"/>
-</div>
-
-### 🔥 December 2025 Highlights
-- 📝 **Active development** across multiple projects
-- 🍴 **Forked ChefSync** - Cloud Kitchen Management System (Python/Django/MySQL)
-- 🚀 **Continuous learning** and improving tech stack
-- 👥 **Growing community** - Building connections with developers worldwide!
-- 💻 **Focused on** Android & Backend development
-
-### 🎯 Key Achievements
-- ⭐ Built **4 major projects** from scratch (CarZone, OTT BrightPath, ZESTY MART, University Timetable)
-- 🏆 Maintained **consistent coding** streak throughout the year
-- 💻 Mastered multiple tech stacks (Kotlin, Java, Python, PHP, Django)
-- 🌟 Successfully deployed **full-stack applications**
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400&exclude_repo=Kajan29" height="180em" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=21&cache_seconds=86400&custom_title=Overall%20Stats" alt="Overall Stats" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=github-dark&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kajan29&theme=radical" alt="Profile Summary" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Current Projects & Interests
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Programming GIF"/>
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 Currently Learning
-- 📱 Advanced Android Development
-- ☸️ Spring Boot Microservices
-- 🌍 Django REST Framework
-- 📦 Database Optimization Techniques
-- 🏛️ Software Architecture Patterns
-- ☁️ Cloud Technologies (AWS/Azure)
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 Collaboration Interests
-- 📱 Android Applications
-- 🖥️ Backend Systems & APIs
-- 🛒 E-commerce Solutions
-- 🏫 University Management Systems
-- 🍴 Cloud Kitchen Applications
-- 🔧 Open Source Contributions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Ask Me About
-- ☕ Java Programming & OOP
-- 🤖 Android Development with Kotlin
-- 🐍 Python & Django Framework
-- 🐘 PHP Backend Development
-- 📄 Database Design & SQL
-- 🏛️ Software Architecture
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Current Focus
-- 🎯 Building production-ready applications
-- 💻 Improving mobile development skills
-- 📖 Learning system design patterns
-- 🧩 Solving real-world problems
-- 🌐 Contributing to open source
-- 📈 Growing technical expertise
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <br>
-  <p><strong>⚡ Fun Fact:</strong> I've built complete end-to-end solutions from car booking apps to online grocery stores! 🚗🛒</p>
-  <p><strong>🎯 Current Status:</strong> Actively coding and contributing to the developer community</p>
-</div>
-
----
-
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <h3>🤝 Let's Connect and Build Something Amazing Together!</h3>
-
-  <a href="https://www.linkedin.com/in/jeyachandran-kajapirathap" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=bounce" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Kajan44864459" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/kajan0629" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:Kajan5217@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/jeyachandran.kajan" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  
+  <br/>
+  
+  <a href="https://github.com/Kajan29">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=00C9FF&currStreakNum=00C9FF" alt="Streak" />
   </a>
 
-  <br><br>
+  <br/>
 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=tokyo-night&bg_color=0d1117&color=7000FF&line=00C9FF&point=ffffff&area=true&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🎯 Goals for 2025
-
-<div align="center">
-
-| Goal | Status | Progress |
-|------|--------|----------|
-| 🔥 Contribute to 10+ Open Source Projects | 🔄 In Progress | ![25%](https://progress-bar.dev/25?color=ff6b6b&width=200) |
-| ☁️ Master Cloud Computing (AWS/Azure) | 🔄 In Progress | ![65%](https://progress-bar.dev/65?color=4ecdc4&width=200) |
-| 🏗️ Build Full-Stack App with Microservices | 🔄 In Progress | ![15%](https://progress-bar.dev/15?color=45b7d1&width=200) |
-| 🚀 Learn DevOps and CI/CD Pipelines | 🔄 In Progress | ![45%](https://progress-bar.dev/45?color=96ceb4&width=200) |
-| 👨‍🏫 Mentor Junior Developers | ✅ Active | ![85%](https://progress-bar.dev/85?color=feca57&width=200) |
-| ✍️ Write Technical Blog Posts | 📝 Started | ![35%](https://progress-bar.dev/35?color=ff9ff3&width=200) |
-
-</div>
-
-<div align="center">
-  <p><em>📅 Last Updated: December 2025 | 🚀 Contributions Growing Daily | 💪 Keep Pushing Forward!</em></p>
-</div>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
-*Note: The snake animation updates automatically every 6 hours*
-
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h3>💻 Thanks for visiting my profile! 💻</h3>
-  <h4>⭐️ From <a href="https://github.com/Kajan29">Kajapirathap Jeyachandran</a> ⭐️</h4>
-  <p><em>💫 "Code is like humor. When you have to explain it, it's bad." – Cory House 💫</em></p>
-  <p><strong>🚀 Happy Coding! Let's build the future together! 🚀</strong></p>
+## 🤝 Connect With Me
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/jeyachandran-kajapirathap">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Kajan5217@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/kajan0629">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Kajan44864459">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </div>
 
-----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
