@@ -86,15 +86,22 @@ const professional_profile = {
 
 ## 📊 Analytics Dashboard
 
+## 📊 Analytics Dashboard
+
 <div align="center">
 
-| **GitHub Stats** | **Top Languages** |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&disable_animations=false" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Kajan29" height="160" /> |
+  <a href="https://github.com/Kajan29">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Kajan29">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=00C9FF&currStreakNum=00C9FF" alt="Streak" width="90%" />
+  <a href="https://github.com/Kajan29">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" height="180" />
+  </a>
 
 <br/><br/>
 
