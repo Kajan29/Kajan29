@@ -26,7 +26,7 @@
 
 <div align="center"> 
 
-About Me
+## About Me
 
 <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="220" align="right" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);" alt="Coding Animation" />
 
@@ -84,44 +84,21 @@ const professional_profile = {
 
 ---
 
-## 🏆 Achievements & Activity
+## 📊 Analytics Dashboard
 
 <div align="center">
 
-  <!-- Summary Cards (Hero Visuals) -->
-  <a href="https://github.com/Kajan29">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kajan29&theme=tokyonight" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kajan29&theme=tokyonight&utcOffset=8" width="45%" />
-  </a>
+| **GitHub Stats** | **Top Languages** |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&disable_animations=false" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Kajan29" height="160" /> |
 
-  <br/><br/>
+<br/>
 
-  <!-- Stats Dashboard -->
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-    
-    <!-- Rank Card -->
-    <a href="https://github.com/Kajan29">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&disable_animations=false" height="170" />
-    </a>
-    
-    <!-- Languages -->
-    <a href="https://github.com/Kajan29">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Kajan29" height="170" />
-    </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=00C9FF&currStreakNum=00C9FF" alt="Streak" width="90%" />
 
-  </div>
+<br/><br/>
 
-  <br/>
-
-  <!-- Streak -->
-  <a href="https://github.com/Kajan29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=00C9FF&currStreakNum=00C9FF" alt="Streak" width="80%" />
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=tokyo-night&bg_color=0d1117&color=7000FF&line=00C9FF&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=tokyo-night&bg_color=0d1117&color=7000FF&line=00C9FF&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
