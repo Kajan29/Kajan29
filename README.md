@@ -90,7 +90,7 @@ const professional_profile = {
 
   <!-- Trophies (Responsive & Dynamic) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kajan29&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
   </a>
   
   <br/><br/>
