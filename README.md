@@ -26,23 +26,29 @@
 
 <div align="center"> 
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/HVfvJfIIqa7Tz9Pz3f/giphy.gif" width="35"> About Me
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY0MDIwODUzOTQ4NDk0OTE1ODQ5MTQ5MTQ5MTQ5MTQ5MTQ5MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xECA2qB9Wf2Eg/giphy.gif" width="250" align="right" style="border-radius: 10px;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY0MDIwODUzOTQ4NDk0OTE1ODQ5MTQ5MTQ5MTQ5MTQ5MTQ5MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xECA2qB9Wf2Eg/giphy.gif" width="220" align="right" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);" />
 
 <div align="left">
 
-```javascript
-const kajan = {
-    code: ["Kotlin", "Java", "Python", "PHP", "JS"],
-    tools: ["React", "Spring Boot", "Django", "Android SDK"],
-    architecture: ["Microservices", "MVC", "REST APIs"],
-    challenge: "Turning ideas into reality through code.",
-    current_focus: "Mastering Cloud Native & Mobile Dev 🚀"
+**Hello! I'm Kajapirathap Jeyachandran.**  
+A passionate **Software Engineer** and **Android Developer** driven by the challenge of transforming complex problems into elegant, user-centric solutions.
+
+I specialize in building **scalable mobile applications** and **robust backend architectures**. My journey involves a constant pursuit of mastering modern technologies, from **Cloud Native** patterns to **Advanced Android Service Architectures**.
+
+> 🔭 **Core Philosophy:** *"Code is not just about syntax; it's about solving real-world problems with efficiency and creativity."*
+
+```typescript
+const professional_profile = {
+    role: "Software Engineer & Innovator",
+    expertise: ["Native Android Dev", "Enterprise Backend Systems", "App Architecture"],
+    current_focus: ["Cloud Microservices (AWS)", "System Design Patterns"],
+    traits: ["Problem Solver", "Continuous Learner", "Detail-Oriented"],
+    goal: "To architect solutions that leave a lasting impact."
 };
 ```
-<br/>
-Currently enhancing my skills in <b>Advanced Android Development</b> and <b>Cloud Architectures (AWS/Azure)</b>. I love building tools that solve real-world problems, from University Management Systems to innovative E-commerce solutions.
+
 </div>
 
 </div>
