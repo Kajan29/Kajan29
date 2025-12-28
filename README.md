@@ -86,12 +86,10 @@ const professional_profile = {
 
 ## 📊 Analytics Dashboard
 
-## 📊 Analytics Dashboard
-
 <div align="center">
 
   <a href="https://github.com/Kajan29">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Kajan29">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
@@ -100,7 +98,7 @@ const professional_profile = {
 <br/>
 
   <a href="https://github.com/Kajan29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" height="180" />
+    <img src="https://streak-stats.demolab.com?user=Kajan29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" height="180" />
   </a>
 
 <br/><br/>
