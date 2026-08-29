@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:00C9FF&height=280&section=header&text=Hi%20there,%20I'm%20Kajapirathap!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20&descColor=ffffff" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:00C9FF&height=280&section=header&text=Hi%20there,%20I'm%20Kajan!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20&descColor=ffffff" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 <div align="left">
 
-**Hello! I'm Kajapirathap Jeyachandran.**  
+**Hello! I'm Kajan Jeyachandran.**  
 A passionate **Software Engineer** and **Android Developer** driven by the challenge of transforming complex problems into elegant, user-centric solutions.
 
 I specialize in building **scalable mobile applications** and **robust backend architectures**. My journey involves a constant pursuit of mastering modern technologies, from **Cloud Native** patterns to **Advanced Android Service Architectures**.
