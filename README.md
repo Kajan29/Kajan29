@@ -1,145 +1,132 @@
+<h1 align="center">Kajan Jeyachandran</h1>
+<h3 align="center">Software Engineer | Android Developer | Backend Architect</h3>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:00C9FF&height=280&section=header&text=Hi%20there,%20I'm%20Kajan!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20&descColor=ffffff" alt="Header" width="100%"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/z" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Applications...;Exploring+New+Technologies...;Crafting+Digital+Experiences...;Passionate+Full+Stack+Dev..." alt="Typing SVG" />
+<p align="center">
+  <a href="https://linkedin.com/in/jeyachandran-kajapirathap">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Kajan29?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kajan29?label=Followers&style=for-the-badge&color=7000FF&logo=github&logoColor=white" alt="Followers" />
+  <a href="mailto:Kajan5217@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Kajan29?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Active-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <a href="https://github.com/Kajan29">
+    <img src="https://img.shields.io/github/followers/Kajan29?label=GitHub&style=flat&logo=github" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate" />
-  <img src="https://komarev.com/ghpvc/?username=Kajan29&label=Profile%20Views&color=7000FF&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-</div>
+</p>
 
 <br />
 
----
-
-<div align="center"> 
-
 ## About Me
 
-<img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="220" align="right" style="border-radius: 12px; margin-left: 20px; box-shadow: 0px 0px 20px rgba(0, 201, 255, 0.2);" alt="Coding Animation" />
+I am a dedicated Software Engineer specializing in **native Android development** and **scalable backend systems**. With expertise spanning mobile applications, enterprise architectures, and cloud-native solutions, I focus on delivering robust, maintainable software that solves real-world problems.
 
-<div align="left">
+### Professional Focus
 
-**Hello! I'm Kajan Jeyachandran.**  
-A passionate **Software Engineer** and **Android Developer** driven by the challenge of transforming complex problems into elegant, user-centric solutions.
+- **Mobile Development:** Native Android applications with Kotlin, emphasizing clean architecture and optimal user experience
+- **Backend Engineering:** Enterprise-grade systems using Java, Python, Spring Boot, and Django
+- **Cloud & DevOps:** AWS services, microservices architecture, and containerization
+- **System Design:** Scalable architectures, design patterns, and performance optimization
 
-I specialize in building **scalable mobile applications** and **robust backend architectures**. My journey involves a constant pursuit of mastering modern technologies, from **Cloud Native** patterns to **Advanced Android Service Architectures**.
+### Current Endeavors
 
-> 🔭 **Core Philosophy:** *"Code is not just about syntax; it's about solving real-world problems with efficiency and creativity."*
+- Advancing expertise in cloud-native microservices and distributed systems
+- Exploring advanced Android frameworks and Jetpack Compose
+- Contributing to open-source projects and technical communities
 
-```typescript
-const professional_profile = {
-    role: "Software Engineer & Innovator",
-    expertise: ["Native Android Dev", "Enterprise Backend Systems", "App Architecture"],
-    current_focus: ["Cloud Microservices (AWS)", "System Design Patterns"],
-    traits: ["Problem Solver", "Continuous Learner", "Detail-Oriented"],
-    goal: "To architect solutions that leave a lasting impact."
-};
-```
+<br />
 
-</div>
+## Technical Skills
 
-</div>
+### Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-<br/>
+### Backend & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
----
+### Frontend Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-## 🛠️ Interactive Tech Stack
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<div align="center">
+<br />
 
-| **Mobile** | **Backend** | **Frontend** | **Database & Tools** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=kotlin,android,flutter" height="50" /> | <img src="https://skillicons.dev/icons?i=java,python,php,spring,django,flask" height="50" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" height="50" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,vscode,idea" height="50" /> |
+## Notable Projects
 
-</div>
+### [CarZone](https://github.com/Kajan29/CarZone) 🚗
+**Mechanic Booking & Service Management Application**
+- Native Android application built with Kotlin and Android XML
+- Integrated Firebase for real-time data synchronization and authentication
+- Streamlined booking workflow with service tracking and notifications
 
----
+### [OTT BrightPath](https://github.com/Kajan29/OTT_BrightPath) 📺
+**Video Streaming Platform Backend**
+- RESTful API architecture using PHP and MySQL
+- Content management system with user authentication and authorization
+- Scalable backend supporting multiple client platforms
 
-## 💻 Featured Projects
+### [ChefSync](https://github.com/Kajan29/ChefSync) 👨‍🍳
+**Cloud Kitchen Management System**
+- Full-stack application using Django and PostgreSQL
+- Order processing, inventory management, and analytics dashboard
+- Responsive design with comprehensive admin controls
 
-<div align="center">
+### [Zesty Mart](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart) 🛒
+**Online Grocery Store Management**
+- Desktop application built with Java Swing
+- Database-driven inventory and order management
+- User-friendly interface with comprehensive reporting features
 
-| Project | Tech Stack | Status |
-|:---:|:---:|:---:|
-| **[CarZone 🚗](https://github.com/Kajan29/CarZone)**<br/>_Mechanic Booking App_ | `Kotlin` `Android XML` `Firebase` | ![Stars](https://img.shields.io/github/stars/Kajan29/CarZone?style=flat-square&labelColor=181717&color=00C9FF) |
-| **[OTT BrightPath 📺](https://github.com/Kajan29/OTT_BrightPath)**<br/>_Streaming Backend_ | `PHP` `MySQL` `REST` | ![Stars](https://img.shields.io/github/stars/Kajan29/OTT_BrightPath?style=flat-square&labelColor=181717&color=7000FF) |
-| **[Zesty Mart 🛒](https://github.com/Kajan29/ZESTY_MART-Online-Grocery-Mart)**<br/>_Grocery Store_ | `Java` `Swing` `MySQL` | ![Stars](https://img.shields.io/github/stars/Kajan29/ZESTY_MART-Online-Grocery-Mart?style=flat-square&labelColor=181717&color=00C9FF) |
-| **[ChefSync 👨‍🍳](https://github.com/Kajan29/ChefSync)**<br/>_Cloud Kitchen Mgr_ | `Python` `Django` `PostgreSQL` | ![Stars](https://img.shields.io/github/stars/Kajan29/ChefSync?style=flat-square&labelColor=181717&color=7000FF) |
+<br />
 
-</div>
+## GitHub Statistics
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&theme=default&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</p>
 
-## 📊 Analytics Dashboard
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajan29&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
+<br />
 
-  <a href="https://github.com/Kajan29">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kajan29&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Kajan29">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajan29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-  </a>
+## Let's Connect
 
-<br/>
+I'm always interested in discussing new opportunities, collaboration on interesting projects, or conversations about technology and software architecture.
 
-  <a href="https://github.com/Kajan29">
-    <img src="https://streak-stats.demolab.com?user=Kajan29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" height="180" />
-  </a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajan29&theme=tokyo-night&bg_color=0d1117&color=7000FF&line=00C9FF&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kajan29/Kajan29/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center"> 
+<p align="center">
   <a href="https://linkedin.com/in/jeyachandran-kajapirathap">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Kajan5217@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/kajan0629">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/Kajan44864459">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</div>
+  <a href="https://instagram.com/kajan0629">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
+<p align="center">
+  <i>Open to collaboration and new opportunities</i>
+</p>
